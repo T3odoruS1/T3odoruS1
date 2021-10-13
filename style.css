@@ -1,31 +1,37 @@
-html, body {
-    background-color: #999;
-}
+
 h1{
     font-family: "Comic Sans MS", "Comic Sans", cursive;
     text-align: center;
+    font-size: 52px;
 }
-h2{
+h2 {
     font-family: "Comic Sans MS", "Comic Sans", cursive;
-
+    font-size: 32px;
+    padding-left: 5%;
+    padding-right: 5%;
 }
 p {
     font-family: "Comic Sans MS", "Comic Sans", cursive;
+    font-size: 20px;
+    padding-left: 5%;
+    padding-right: 5%;
 }
 img {
     border-radius: 8px;
     width: 400px;
     height: auto;
     rotation: 90deg;
+    display: block;
+    padding-left: 5%;
+    padding-right: 5%;
 
 }
 div{
-    display: inline-block;
-    vertical-align: top;
-    align-content: center;
-    text-align: center;
-    margin-left: auto;
-    margin-right: auto;
+    font-family: "Comic Sans MS", "Comic Sans", cursive;
+    font-size: 30px;
+    padding-left: 5%;
+    padding-right: 5%;
+
 }
 table{
     align-content: center;
